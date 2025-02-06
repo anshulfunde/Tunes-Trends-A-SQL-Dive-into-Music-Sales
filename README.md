@@ -13,7 +13,9 @@ This project answers key business questions across three difficulty levels:
 ✅ Advanced: Exploring customer spending by artist, popular genres by country, and top-spending customers per country.
 
 🛠️ Tech Stack
+
 Database: MySQL 
+
 Query Language: SQL
 
 📊 Insights & Use Cases
