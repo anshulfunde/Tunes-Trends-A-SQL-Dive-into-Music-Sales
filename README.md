@@ -20,6 +20,7 @@ Analyze the popularity of music genres and artists.
 Generate actionable insights for music store decision-making.
 
 📂 Project Structure
+
 SQL Queries → Contains SQL scripts for each analysis level.
 ERD → Entity Relationship Diagram for database schema.
 
