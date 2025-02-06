@@ -1,1 +1,1 @@
-# Tunes & Trends A SQL Dive into Music Sales
+# Tunes & Trends - A SQL Dive into Music Sales
